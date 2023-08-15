@@ -51,7 +51,7 @@ ol li:last-child {
   background-color: #b58900;
 }
 
-.dfn > strong {
+div[class="dfn"] > strong {
   color: #fff;
 }
 
